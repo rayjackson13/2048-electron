@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #fff;
+  user-select: none;
+  margin: 0;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
